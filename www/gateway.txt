@@ -18,5 +18,6 @@ https://ipfs.works/ipfs/@
 https://ipfs.work/ipfs/@
 https://ipfs.macholibre.org/ipfs/@
 https://ipfs.leotindall.com/ipfs/@
+https://gateway.pinata.cloud/ipfs/@
 https://gateway.swedneck.xyz/ipfs/@
 https://snap1.d.tube/ipfs/@
